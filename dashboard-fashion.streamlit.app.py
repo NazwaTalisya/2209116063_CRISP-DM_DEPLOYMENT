@@ -5,7 +5,6 @@ import numpy as np
 import altair as alt
 import matplotlib.pyplot as plt
 from streamlit_option_menu import *
-from st_on_hover_tabs import on_hover_tabs
 from function import *
 
 # Dataframe
