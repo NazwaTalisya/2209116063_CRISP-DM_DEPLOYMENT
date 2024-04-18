@@ -1,0 +1,1001 @@
+Brand,Category,Color,Size,Material,Price,PriceCategory
+New Balance,Dress,White,XS,Nylon,182,Affordable
+New Balance,Jeans,Black,XS,Silk,57,Cheap
+Under Armour,Dress,Red,M,Wool,127,Cheap
+Nike,Shoes,Green,M,Cotton,77,Cheap
+Adidas,Sweater,White,M,Nylon,113,Cheap
+Reebok,Jacket,Red,XL,Nylon,19,Cheap
+Puma,Jacket,Red,XXL,Polyester,31,Cheap
+Adidas,Dress,Red,XS,Denim,46,Cheap
+Reebok,Dress,Black,S,Wool,97,Cheap
+Adidas,Jeans,Yellow,L,Wool,80,Cheap
+Nike,Jacket,White,XL,Silk,98,Cheap
+Puma,Jacket,White,XL,Silk,150,Affordable
+Under Armour,Jacket,White,S,Nylon,68,Cheap
+Under Armour,T-shirt,Blue,XL,Polyester,49,Cheap
+New Balance,Jacket,Green,S,Nylon,97,Cheap
+Under Armour,Jacket,Green,XXL,Silk,184,Affordable
+New Balance,Jeans,Red,S,Cotton,98,Cheap
+Reebok,Shoes,Blue,XS,Polyester,91,Cheap
+Adidas,Jeans,Yellow,XL,Denim,175,Affordable
+Puma,Shoes,Blue,XL,Wool,35,Cheap
+Puma,Sweater,Blue,L,Cotton,87,Cheap
+New Balance,Jeans,Green,S,Cotton,82,Cheap
+Reebok,Jacket,Black,L,Denim,19,Cheap
+Puma,Jacket,Red,XXL,Wool,158,Affordable
+Puma,Jacket,Black,L,Denim,125,Cheap
+Adidas,Jeans,White,XXL,Nylon,89,Cheap
+Adidas,Dress,Green,L,Polyester,185,Affordable
+New Balance,Shoes,Blue,M,Cotton,92,Cheap
+Adidas,T-shirt,Red,XS,Denim,109,Cheap
+Reebok,Sweater,Yellow,S,Denim,187,Affordable
+New Balance,Dress,Yellow,XL,Nylon,39,Cheap
+Reebok,T-shirt,Blue,M,Wool,157,Affordable
+Reebok,Jeans,Black,M,Nylon,157,Affordable
+Puma,Shoes,Black,M,Cotton,152,Affordable
+Under Armour,Sweater,Red,XL,Polyester,177,Affordable
+Puma,Sweater,White,M,Polyester,42,Cheap
+Adidas,Jeans,Green,M,Wool,19,Cheap
+Under Armour,Shoes,Black,XL,Nylon,195,Affordable
+Nike,Dress,Yellow,XS,Silk,137,Cheap
+Under Armour,T-shirt,Yellow,XXL,Polyester,42,Cheap
+Adidas,Jacket,Yellow,M,Silk,41,Cheap
+Adidas,Shoes,White,S,Nylon,161,Affordable
+Adidas,Jacket,Black,XS,Nylon,173,Affordable
+New Balance,Shoes,Blue,XL,Silk,124,Cheap
+Adidas,T-shirt,Black,XS,Wool,193,Affordable
+Nike,Jacket,Black,XS,Silk,38,Cheap
+New Balance,Dress,Red,L,Cotton,44,Cheap
+Under Armour,Shoes,Green,XL,Silk,138,Cheap
+Nike,Jeans,White,XS,Silk,138,Cheap
+Puma,Shoes,Black,XL,Wool,174,Affordable
+Under Armour,Jacket,Black,XXL,Cotton,63,Cheap
+Puma,Jeans,Green,M,Nylon,143,Cheap
+Puma,Shoes,Yellow,XL,Cotton,48,Cheap
+New Balance,Jacket,White,XS,Silk,27,Cheap
+Puma,Jacket,Green,XL,Denim,89,Cheap
+New Balance,Sweater,Black,L,Nylon,142,Cheap
+Adidas,Jacket,Blue,XXL,Wool,115,Cheap
+Under Armour,Sweater,Red,L,Nylon,52,Cheap
+Reebok,T-shirt,Red,L,Wool,196,Affordable
+Under Armour,Jacket,Green,XXL,Silk,41,Cheap
+Adidas,Shoes,Green,XXL,Cotton,130,Cheap
+Under Armour,Jacket,Yellow,XXL,Cotton,11,Cheap
+New Balance,Jacket,Red,XL,Cotton,75,Cheap
+Adidas,Sweater,Green,XS,Denim,179,Affordable
+Under Armour,Jacket,White,M,Cotton,67,Cheap
+Under Armour,Dress,Black,S,Cotton,45,Cheap
+New Balance,T-shirt,Black,M,Polyester,112,Cheap
+Puma,Jeans,Blue,XXL,Silk,129,Cheap
+Nike,Shoes,White,L,Cotton,21,Cheap
+Under Armour,Jeans,Blue,XXL,Denim,184,Affordable
+Reebok,Sweater,White,XS,Cotton,92,Cheap
+Nike,Shoes,Green,XXL,Wool,101,Cheap
+Reebok,T-shirt,Yellow,XXL,Silk,138,Cheap
+New Balance,T-shirt,Yellow,XL,Wool,152,Affordable
+Under Armour,Jeans,Yellow,XL,Cotton,109,Cheap
+Adidas,Sweater,White,XS,Silk,63,Cheap
+New Balance,Dress,Yellow,XS,Silk,150,Affordable
+Under Armour,T-shirt,Red,XXL,Silk,131,Cheap
+Puma,Shoes,White,L,Nylon,180,Affordable
+Adidas,Jeans,White,L,Polyester,94,Cheap
+Reebok,Dress,Yellow,XS,Polyester,78,Cheap
+Under Armour,Dress,Blue,L,Cotton,16,Cheap
+New Balance,Dress,White,XXL,Polyester,57,Cheap
+New Balance,Shoes,Blue,S,Silk,137,Cheap
+Under Armour,Jacket,White,XXL,Nylon,141,Cheap
+Adidas,Dress,Red,XL,Polyester,110,Cheap
+Under Armour,Dress,Green,L,Polyester,190,Affordable
+Nike,Shoes,Black,L,Nylon,88,Cheap
+Reebok,Jeans,Blue,L,Wool,153,Affordable
+Under Armour,Sweater,Blue,XS,Cotton,158,Affordable
+Under Armour,Jacket,White,XXL,Silk,196,Affordable
+Adidas,Jeans,Red,XXL,Denim,33,Cheap
+Puma,Shoes,Blue,S,Nylon,151,Affordable
+New Balance,Jeans,Black,XXL,Wool,127,Cheap
+Reebok,Dress,Red,L,Denim,95,Cheap
+Nike,Jacket,Yellow,S,Cotton,58,Cheap
+New Balance,Sweater,Yellow,S,Wool,59,Cheap
+Nike,Sweater,Yellow,XS,Cotton,79,Cheap
+Adidas,Jeans,Black,L,Polyester,179,Affordable
+Nike,Jacket,Green,S,Nylon,173,Affordable
+Puma,Jeans,Blue,L,Cotton,105,Cheap
+Under Armour,Shoes,Black,L,Nylon,104,Cheap
+Reebok,Jeans,Green,XXL,Nylon,10,Cheap
+New Balance,Sweater,Red,M,Denim,123,Cheap
+Under Armour,Sweater,Black,XL,Wool,188,Affordable
+Adidas,Jeans,Red,L,Silk,46,Cheap
+Under Armour,Sweater,Green,XXL,Wool,172,Affordable
+Puma,Shoes,Black,XS,Denim,58,Cheap
+Nike,Sweater,Blue,XXL,Wool,103,Cheap
+New Balance,Dress,Green,XL,Silk,141,Cheap
+Reebok,Dress,Blue,XS,Denim,108,Cheap
+Puma,T-shirt,Red,XS,Silk,52,Cheap
+New Balance,Shoes,Blue,XS,Wool,122,Cheap
+Adidas,T-shirt,Black,M,Nylon,159,Affordable
+Reebok,Jeans,Black,XL,Polyester,137,Cheap
+Under Armour,Jeans,Yellow,XS,Silk,10,Cheap
+Adidas,Jeans,White,XXL,Polyester,148,Cheap
+Under Armour,Jeans,Blue,XXL,Nylon,124,Cheap
+Puma,Sweater,Yellow,M,Silk,53,Cheap
+New Balance,T-shirt,Green,XL,Cotton,196,Affordable
+Puma,Jeans,Red,XXL,Cotton,137,Cheap
+Adidas,Dress,Green,XS,Wool,33,Cheap
+Nike,Sweater,White,XS,Polyester,197,Affordable
+Adidas,T-shirt,Red,L,Cotton,140,Cheap
+Nike,Shoes,White,XL,Wool,131,Cheap
+Adidas,Sweater,Blue,XXL,Wool,108,Cheap
+Adidas,Jacket,Black,S,Wool,72,Cheap
+Reebok,Jeans,Blue,XS,Denim,173,Affordable
+Nike,Dress,Red,XS,Nylon,133,Cheap
+Nike,Shoes,Yellow,XS,Polyester,92,Cheap
+New Balance,T-shirt,Red,L,Silk,184,Affordable
+Puma,Sweater,Yellow,XXL,Wool,158,Affordable
+Under Armour,T-shirt,Green,L,Silk,60,Cheap
+Puma,Jacket,Black,L,Cotton,165,Affordable
+Nike,Dress,Green,XL,Nylon,24,Cheap
+Reebok,Shoes,Blue,M,Denim,51,Cheap
+Nike,Sweater,White,XL,Silk,68,Cheap
+New Balance,Shoes,Yellow,M,Wool,46,Cheap
+Under Armour,Jacket,Yellow,S,Nylon,20,Cheap
+Under Armour,Dress,Green,XL,Wool,96,Cheap
+Adidas,Jeans,Black,XXL,Nylon,53,Cheap
+Reebok,T-shirt,Black,XXL,Silk,114,Cheap
+New Balance,Jacket,Green,XXL,Silk,21,Cheap
+Puma,Shoes,Black,XXL,Cotton,12,Cheap
+Reebok,Shoes,Blue,XS,Denim,61,Cheap
+Adidas,T-shirt,White,S,Polyester,90,Cheap
+Nike,T-shirt,Red,XS,Denim,42,Cheap
+New Balance,Jacket,Yellow,M,Wool,192,Affordable
+Under Armour,Jacket,White,L,Wool,138,Cheap
+Nike,Sweater,Yellow,M,Cotton,48,Cheap
+Nike,Dress,Yellow,XL,Denim,29,Cheap
+Adidas,Shoes,Red,XXL,Nylon,184,Affordable
+Puma,Jeans,Blue,S,Denim,52,Cheap
+Nike,Dress,Green,XXL,Nylon,125,Cheap
+Under Armour,Shoes,Black,S,Silk,194,Affordable
+Under Armour,Shoes,Black,S,Silk,198,Affordable
+Puma,Jeans,Red,M,Wool,87,Cheap
+Puma,Jeans,Yellow,XL,Polyester,40,Cheap
+Adidas,Sweater,Black,L,Wool,34,Cheap
+Reebok,Dress,Green,S,Denim,135,Cheap
+Under Armour,Jacket,Black,L,Nylon,12,Cheap
+Nike,T-shirt,Yellow,S,Polyester,13,Cheap
+Adidas,Shoes,White,S,Polyester,104,Cheap
+Puma,Sweater,Green,M,Cotton,117,Cheap
+Nike,Sweater,Yellow,XS,Silk,23,Cheap
+Reebok,Sweater,Yellow,S,Polyester,122,Cheap
+New Balance,Jacket,Red,XS,Denim,50,Cheap
+Puma,Shoes,Yellow,M,Wool,82,Cheap
+Reebok,T-shirt,Green,S,Nylon,29,Cheap
+Reebok,Jeans,Red,XXL,Silk,105,Cheap
+Under Armour,Shoes,Red,XL,Denim,82,Cheap
+New Balance,Jacket,Green,S,Wool,164,Affordable
+Under Armour,Dress,Red,S,Nylon,190,Affordable
+Reebok,Dress,Green,XL,Wool,77,Cheap
+New Balance,Jacket,Black,XL,Wool,71,Cheap
+Under Armour,Sweater,Red,S,Silk,24,Cheap
+New Balance,Jacket,Black,L,Nylon,106,Cheap
+New Balance,Shoes,Red,M,Wool,14,Cheap
+Puma,T-shirt,Yellow,XXL,Polyester,149,Cheap
+Reebok,Shoes,White,L,Denim,96,Cheap
+Reebok,Jeans,Green,XXL,Denim,131,Cheap
+Adidas,Jeans,Yellow,S,Silk,119,Cheap
+Adidas,Jeans,Black,XXL,Cotton,85,Cheap
+Adidas,Shoes,Green,XS,Polyester,194,Affordable
+Adidas,Jeans,Green,XL,Nylon,26,Cheap
+Nike,Sweater,White,XXL,Denim,162,Affordable
+Adidas,Shoes,Black,XXL,Polyester,167,Affordable
+Puma,Shoes,Green,XL,Wool,159,Affordable
+Nike,Dress,Green,XS,Cotton,120,Cheap
+Puma,Dress,Red,M,Silk,35,Cheap
+Adidas,Jacket,Blue,XXL,Denim,198,Affordable
+Reebok,Jeans,Yellow,M,Cotton,131,Cheap
+Nike,Dress,Blue,S,Denim,128,Cheap
+Reebok,T-shirt,Green,S,Polyester,127,Cheap
+Puma,Jacket,White,XL,Cotton,199,Affordable
+Puma,Sweater,White,XS,Nylon,93,Cheap
+Nike,Dress,Blue,XS,Denim,171,Affordable
+New Balance,Jeans,White,L,Wool,114,Cheap
+Puma,Sweater,White,M,Wool,170,Affordable
+New Balance,T-shirt,Red,XXL,Nylon,131,Cheap
+Nike,T-shirt,Black,M,Wool,80,Cheap
+Puma,T-shirt,Black,S,Silk,41,Cheap
+Reebok,Sweater,Blue,S,Wool,23,Cheap
+Under Armour,Shoes,Red,M,Wool,81,Cheap
+Adidas,Dress,White,L,Denim,194,Affordable
+Adidas,Dress,White,S,Polyester,162,Affordable
+Under Armour,Shoes,Black,S,Cotton,89,Cheap
+Under Armour,Shoes,Blue,XXL,Wool,51,Cheap
+Nike,Jeans,Blue,L,Polyester,28,Cheap
+Puma,Shoes,Yellow,XXL,Nylon,50,Cheap
+Reebok,Sweater,Red,XXL,Denim,192,Affordable
+Adidas,Dress,Yellow,XL,Silk,21,Cheap
+Under Armour,Shoes,Blue,M,Nylon,176,Affordable
+New Balance,Jacket,Yellow,XS,Silk,121,Cheap
+New Balance,Jeans,White,XS,Polyester,103,Cheap
+Under Armour,Dress,Yellow,XS,Nylon,139,Cheap
+Under Armour,Jacket,Blue,XS,Polyester,128,Cheap
+Puma,Jeans,Black,XS,Silk,54,Cheap
+New Balance,T-shirt,Green,XL,Wool,135,Cheap
+Reebok,T-shirt,Black,M,Polyester,34,Cheap
+Under Armour,Jacket,White,S,Cotton,77,Cheap
+Reebok,T-shirt,Red,XS,Wool,13,Cheap
+Adidas,Jacket,Black,L,Wool,45,Cheap
+Nike,Jeans,White,XS,Cotton,199,Affordable
+Nike,Dress,Blue,XL,Nylon,53,Cheap
+Adidas,Jeans,Yellow,M,Cotton,42,Cheap
+Nike,Jacket,Red,L,Denim,21,Cheap
+Under Armour,Sweater,Red,XS,Wool,114,Cheap
+New Balance,Sweater,Red,XL,Nylon,148,Cheap
+Puma,Shoes,Yellow,XS,Nylon,192,Affordable
+Nike,Shoes,White,XS,Silk,175,Affordable
+Adidas,Shoes,Black,L,Cotton,135,Cheap
+Puma,Jacket,Yellow,XL,Wool,166,Affordable
+Adidas,T-shirt,White,M,Polyester,121,Cheap
+Under Armour,Jacket,Green,XL,Silk,12,Cheap
+Adidas,Shoes,Red,M,Denim,37,Cheap
+New Balance,Dress,Blue,M,Denim,161,Affordable
+Under Armour,Jeans,Yellow,M,Polyester,63,Cheap
+Nike,Jacket,Red,M,Nylon,61,Cheap
+Puma,Shoes,Yellow,XL,Wool,184,Affordable
+Reebok,Dress,White,L,Denim,158,Affordable
+New Balance,Sweater,Yellow,M,Denim,191,Affordable
+Puma,Jacket,Black,S,Wool,39,Cheap
+Reebok,T-shirt,Yellow,M,Cotton,77,Cheap
+Nike,Shoes,White,S,Wool,45,Cheap
+Adidas,Jacket,Blue,XS,Wool,49,Cheap
+New Balance,Shoes,Green,M,Cotton,147,Cheap
+New Balance,Sweater,Green,S,Cotton,83,Cheap
+Under Armour,Shoes,Yellow,M,Wool,51,Cheap
+Under Armour,Shoes,Yellow,XL,Wool,161,Affordable
+Under Armour,Dress,Yellow,L,Silk,141,Cheap
+Nike,Jacket,Green,XS,Polyester,56,Cheap
+Nike,Jacket,White,L,Silk,188,Affordable
+New Balance,Shoes,White,L,Silk,118,Cheap
+Reebok,T-shirt,Yellow,XL,Nylon,13,Cheap
+Puma,Jacket,White,XXL,Wool,41,Cheap
+Puma,Jeans,Black,S,Silk,19,Cheap
+Adidas,Jacket,Yellow,XS,Wool,148,Cheap
+Reebok,Dress,Blue,L,Silk,37,Cheap
+Nike,Jeans,Blue,M,Nylon,183,Affordable
+Nike,T-shirt,Green,XXL,Wool,177,Affordable
+Under Armour,Dress,Blue,S,Polyester,71,Cheap
+Reebok,T-shirt,Green,XS,Nylon,95,Cheap
+Reebok,Jacket,White,L,Cotton,107,Cheap
+Nike,Jacket,Blue,XXL,Polyester,54,Cheap
+Reebok,Jacket,Green,L,Denim,44,Cheap
+Under Armour,Sweater,Red,S,Denim,172,Affordable
+Under Armour,Sweater,Blue,M,Silk,98,Cheap
+New Balance,Sweater,White,L,Wool,43,Cheap
+Nike,Jeans,Yellow,XL,Wool,143,Cheap
+Nike,Sweater,Green,XL,Polyester,46,Cheap
+Reebok,Shoes,Green,XXL,Cotton,10,Cheap
+New Balance,Shoes,Black,S,Wool,44,Cheap
+Reebok,Jacket,Red,XS,Denim,136,Cheap
+New Balance,Jacket,Red,S,Cotton,191,Affordable
+New Balance,T-shirt,White,XXL,Cotton,90,Cheap
+New Balance,Dress,White,S,Nylon,146,Cheap
+Puma,Dress,Yellow,XS,Polyester,199,Affordable
+Reebok,Jeans,Green,XS,Polyester,139,Cheap
+Reebok,Dress,Red,XS,Polyester,122,Cheap
+Adidas,Jeans,Red,M,Denim,45,Cheap
+New Balance,T-shirt,Black,L,Silk,130,Cheap
+Nike,Jacket,White,S,Polyester,101,Cheap
+Reebok,Jacket,Yellow,XL,Wool,178,Affordable
+Adidas,Jeans,White,XS,Wool,126,Cheap
+Reebok,Sweater,Yellow,XS,Polyester,46,Cheap
+Nike,T-shirt,Red,XS,Wool,186,Affordable
+Puma,Shoes,Blue,L,Nylon,35,Cheap
+New Balance,Jacket,Black,XL,Silk,77,Cheap
+New Balance,Jacket,Blue,XXL,Denim,113,Cheap
+Under Armour,T-shirt,Black,XXL,Silk,45,Cheap
+Nike,Shoes,Blue,S,Cotton,124,Cheap
+Nike,Shoes,Yellow,L,Cotton,40,Cheap
+Adidas,Jeans,White,M,Denim,39,Cheap
+Adidas,Sweater,White,XXL,Silk,43,Cheap
+Adidas,Jeans,White,XXL,Polyester,156,Affordable
+Puma,T-shirt,Green,XL,Polyester,27,Cheap
+Adidas,Dress,Yellow,XL,Nylon,94,Cheap
+Nike,Jeans,Red,M,Denim,12,Cheap
+Adidas,Dress,Blue,S,Denim,79,Cheap
+Reebok,T-shirt,White,XL,Silk,111,Cheap
+Reebok,Shoes,Red,XS,Denim,150,Affordable
+Under Armour,Dress,Yellow,S,Wool,54,Cheap
+Reebok,Jacket,White,XXL,Wool,127,Cheap
+Under Armour,Dress,Blue,XXL,Cotton,76,Cheap
+Reebok,Sweater,Black,L,Denim,121,Cheap
+Puma,Sweater,Green,M,Silk,101,Cheap
+Under Armour,T-shirt,White,XS,Cotton,95,Cheap
+Reebok,Sweater,Yellow,XS,Nylon,177,Affordable
+Under Armour,Shoes,Yellow,XS,Denim,49,Cheap
+New Balance,Shoes,Green,L,Cotton,160,Affordable
+Under Armour,Dress,Yellow,XS,Nylon,168,Affordable
+Reebok,Jacket,Blue,XL,Silk,155,Affordable
+Nike,T-shirt,Blue,XS,Nylon,28,Cheap
+Adidas,Jeans,Yellow,S,Cotton,102,Cheap
+Under Armour,Jacket,Blue,XL,Denim,53,Cheap
+New Balance,Jeans,Yellow,XS,Silk,93,Cheap
+Under Armour,T-shirt,White,XXL,Cotton,187,Affordable
+Under Armour,Jeans,Yellow,L,Wool,51,Cheap
+Adidas,Jacket,Black,XS,Denim,103,Cheap
+New Balance,Sweater,Green,L,Polyester,184,Affordable
+Under Armour,T-shirt,Blue,XL,Nylon,159,Affordable
+Under Armour,Sweater,Green,XL,Nylon,99,Cheap
+Reebok,Sweater,White,XL,Denim,83,Cheap
+Nike,Sweater,Black,XL,Polyester,38,Cheap
+New Balance,Jacket,Red,L,Denim,115,Cheap
+Puma,Shoes,Yellow,S,Nylon,196,Affordable
+Puma,Dress,Blue,L,Nylon,138,Cheap
+New Balance,Sweater,Red,L,Denim,73,Cheap
+Adidas,Dress,Red,XS,Wool,26,Cheap
+New Balance,T-shirt,Blue,XS,Denim,116,Cheap
+New Balance,Jeans,White,L,Silk,174,Affordable
+Puma,Sweater,Red,M,Denim,104,Cheap
+Nike,Shoes,White,S,Nylon,34,Cheap
+Puma,Dress,White,XL,Wool,126,Cheap
+Nike,T-shirt,Yellow,XL,Denim,61,Cheap
+Nike,Jacket,White,XL,Nylon,146,Cheap
+Reebok,Shoes,White,XS,Denim,194,Affordable
+Puma,Shoes,Yellow,XS,Silk,101,Cheap
+Under Armour,T-shirt,White,S,Wool,103,Cheap
+New Balance,Jacket,Yellow,XXL,Nylon,133,Cheap
+Adidas,Jeans,Black,S,Wool,97,Cheap
+Under Armour,Jeans,Red,L,Denim,170,Affordable
+Puma,Shoes,Yellow,XS,Denim,157,Affordable
+Puma,Dress,Black,XL,Polyester,82,Cheap
+Under Armour,Jacket,Yellow,L,Nylon,97,Cheap
+Reebok,Jacket,Yellow,M,Cotton,23,Cheap
+Puma,Shoes,Blue,M,Silk,68,Cheap
+Reebok,Jeans,Yellow,XXL,Denim,91,Cheap
+New Balance,Shoes,Yellow,S,Nylon,130,Cheap
+New Balance,Shoes,Yellow,XS,Denim,126,Cheap
+Adidas,T-shirt,Yellow,XS,Nylon,193,Affordable
+Puma,T-shirt,Yellow,M,Cotton,74,Cheap
+Under Armour,Dress,Green,S,Wool,174,Affordable
+Reebok,Jeans,Green,S,Silk,35,Cheap
+Adidas,Jeans,Black,XS,Cotton,42,Cheap
+Nike,Sweater,White,XXL,Silk,180,Affordable
+Adidas,Shoes,Black,XS,Nylon,24,Cheap
+Reebok,Dress,Black,M,Silk,38,Cheap
+Puma,Jeans,Green,XXL,Wool,30,Cheap
+Puma,Sweater,White,XL,Polyester,78,Cheap
+Nike,Jacket,Black,S,Silk,32,Cheap
+Reebok,Shoes,Blue,XS,Polyester,132,Cheap
+Puma,Sweater,Red,XXL,Wool,93,Cheap
+Puma,Jeans,Blue,XXL,Cotton,145,Cheap
+Reebok,T-shirt,Red,S,Denim,71,Cheap
+Adidas,Dress,White,XXL,Silk,151,Affordable
+New Balance,Jacket,Red,XL,Silk,15,Cheap
+Under Armour,Shoes,Yellow,M,Silk,10,Cheap
+Adidas,T-shirt,Black,XL,Silk,146,Cheap
+Reebok,Dress,Red,M,Polyester,191,Affordable
+New Balance,Jacket,Yellow,S,Wool,149,Cheap
+Adidas,Jacket,Blue,L,Polyester,14,Cheap
+Puma,Shoes,Yellow,S,Nylon,177,Affordable
+New Balance,Shoes,Red,L,Nylon,102,Cheap
+New Balance,Jeans,Yellow,XXL,Cotton,183,Affordable
+Reebok,Sweater,Yellow,S,Cotton,36,Cheap
+Puma,Shoes,Blue,XXL,Silk,84,Cheap
+Puma,T-shirt,Blue,XL,Nylon,62,Cheap
+Puma,Shoes,White,M,Polyester,187,Affordable
+New Balance,Sweater,Red,S,Wool,61,Cheap
+Adidas,Jeans,White,XXL,Nylon,115,Cheap
+Under Armour,Jeans,White,XS,Nylon,28,Cheap
+Nike,T-shirt,Yellow,M,Polyester,127,Cheap
+Under Armour,Jacket,Green,XL,Nylon,44,Cheap
+Nike,Dress,Yellow,S,Denim,61,Cheap
+Reebok,Jacket,Red,XXL,Polyester,168,Affordable
+Under Armour,Sweater,Green,M,Denim,191,Affordable
+New Balance,Shoes,White,XS,Polyester,68,Cheap
+Nike,T-shirt,Yellow,M,Polyester,181,Affordable
+Puma,Jeans,Blue,S,Polyester,65,Cheap
+Reebok,Shoes,Red,XS,Nylon,28,Cheap
+Under Armour,Jacket,Yellow,S,Nylon,183,Affordable
+Adidas,T-shirt,Blue,L,Wool,97,Cheap
+Reebok,Dress,Red,M,Cotton,80,Cheap
+Puma,Shoes,Green,XXL,Denim,63,Cheap
+Puma,Jeans,Green,XS,Wool,58,Cheap
+New Balance,Jacket,Red,S,Denim,104,Cheap
+Puma,Jeans,White,L,Polyester,69,Cheap
+Nike,Sweater,Blue,S,Silk,90,Cheap
+Under Armour,Dress,Green,S,Wool,164,Affordable
+Reebok,Shoes,White,M,Silk,134,Cheap
+Under Armour,Dress,Red,M,Silk,173,Affordable
+New Balance,Dress,Yellow,L,Denim,68,Cheap
+Under Armour,Sweater,Red,XXL,Denim,187,Affordable
+Nike,Jacket,Red,M,Nylon,116,Cheap
+Nike,Shoes,Red,XS,Polyester,54,Cheap
+Puma,Jacket,Blue,XXL,Cotton,23,Cheap
+Under Armour,Jacket,Black,L,Denim,131,Cheap
+New Balance,Jacket,White,M,Cotton,80,Cheap
+Nike,Jacket,Yellow,XXL,Cotton,48,Cheap
+New Balance,T-shirt,Blue,XL,Cotton,177,Affordable
+Puma,Sweater,Red,XS,Cotton,146,Cheap
+Reebok,Dress,Yellow,S,Silk,23,Cheap
+Nike,Jacket,Blue,XS,Silk,145,Cheap
+Nike,Jacket,Green,XS,Silk,32,Cheap
+Reebok,Dress,Yellow,XXL,Polyester,89,Cheap
+Reebok,Dress,White,XS,Wool,18,Cheap
+Nike,T-shirt,Black,XL,Denim,16,Cheap
+Reebok,Sweater,Black,XS,Nylon,70,Cheap
+Reebok,Jeans,Yellow,XL,Silk,154,Affordable
+Puma,Shoes,Yellow,XL,Polyester,66,Cheap
+Nike,T-shirt,White,M,Polyester,124,Cheap
+Reebok,Jeans,Red,XL,Denim,161,Affordable
+Puma,T-shirt,Red,XL,Nylon,34,Cheap
+Nike,Sweater,White,XXL,Cotton,14,Cheap
+Nike,Sweater,Red,XXL,Polyester,110,Cheap
+Nike,Jeans,Yellow,L,Wool,59,Cheap
+Reebok,Jacket,Black,XL,Wool,97,Cheap
+Reebok,Shoes,Green,XXL,Wool,40,Cheap
+Under Armour,Jacket,Black,XS,Polyester,64,Cheap
+Puma,Jacket,Red,S,Polyester,163,Affordable
+Under Armour,Jeans,Blue,XL,Denim,30,Cheap
+New Balance,Jacket,Black,XL,Polyester,107,Cheap
+Puma,Dress,Red,M,Polyester,111,Cheap
+Adidas,Dress,White,XXL,Wool,195,Affordable
+Under Armour,Sweater,Yellow,M,Denim,161,Affordable
+New Balance,Jeans,White,XS,Nylon,165,Affordable
+Nike,Jacket,Green,L,Nylon,39,Cheap
+New Balance,Dress,Blue,XXL,Polyester,171,Affordable
+Adidas,Jacket,Black,XL,Wool,125,Cheap
+Adidas,Shoes,Red,S,Denim,63,Cheap
+Adidas,T-shirt,Black,XL,Nylon,129,Cheap
+Puma,Jacket,Green,XXL,Wool,189,Affordable
+Reebok,Sweater,Blue,L,Polyester,96,Cheap
+Reebok,T-shirt,Black,XXL,Polyester,17,Cheap
+Adidas,Jeans,Green,L,Silk,115,Cheap
+Reebok,Jacket,Blue,XXL,Polyester,147,Cheap
+New Balance,Jacket,Black,S,Wool,192,Affordable
+Nike,T-shirt,Red,XS,Polyester,138,Cheap
+Reebok,Sweater,Green,XL,Cotton,93,Cheap
+Puma,Sweater,Red,XL,Silk,130,Cheap
+Adidas,Sweater,Green,M,Polyester,174,Affordable
+Under Armour,Shoes,Red,XS,Polyester,158,Affordable
+Nike,Jeans,White,S,Silk,127,Cheap
+Under Armour,T-shirt,Red,XL,Cotton,13,Cheap
+Adidas,Dress,White,XXL,Denim,136,Cheap
+New Balance,Jeans,Black,XXL,Silk,52,Cheap
+Adidas,Sweater,Black,XXL,Wool,75,Cheap
+Under Armour,Sweater,Red,L,Wool,30,Cheap
+Adidas,Jacket,Green,XS,Cotton,46,Cheap
+Adidas,Shoes,Black,L,Polyester,78,Cheap
+Adidas,Shoes,Black,XXL,Silk,122,Cheap
+Reebok,Jeans,Red,L,Nylon,185,Affordable
+New Balance,T-shirt,Green,XL,Cotton,148,Cheap
+Reebok,Sweater,Red,S,Silk,114,Cheap
+Puma,Dress,Yellow,S,Silk,101,Cheap
+Under Armour,Jacket,Red,S,Cotton,53,Cheap
+Nike,T-shirt,Green,XL,Nylon,73,Cheap
+Under Armour,T-shirt,Black,XXL,Wool,169,Affordable
+Under Armour,Shoes,Black,M,Denim,158,Affordable
+Puma,T-shirt,Blue,S,Denim,19,Cheap
+New Balance,Shoes,Red,L,Wool,198,Affordable
+Reebok,Shoes,Black,L,Polyester,101,Cheap
+Nike,Shoes,Yellow,XXL,Denim,121,Cheap
+Nike,Jacket,Black,M,Denim,173,Affordable
+Puma,Dress,White,XS,Polyester,93,Cheap
+Adidas,Sweater,White,XL,Denim,86,Cheap
+Under Armour,Jacket,Yellow,XL,Wool,28,Cheap
+Under Armour,Jacket,Black,L,Nylon,123,Cheap
+Nike,Dress,Black,S,Cotton,84,Cheap
+Under Armour,T-shirt,Green,S,Silk,181,Affordable
+Nike,Sweater,Black,M,Polyester,141,Cheap
+Reebok,Jeans,Yellow,XS,Wool,150,Affordable
+Reebok,T-shirt,Green,S,Denim,68,Cheap
+Nike,Shoes,Black,S,Silk,139,Cheap
+Puma,T-shirt,Green,L,Cotton,123,Cheap
+Under Armour,Dress,White,XXL,Cotton,138,Cheap
+New Balance,Jeans,White,S,Polyester,49,Cheap
+New Balance,Sweater,Black,XL,Polyester,34,Cheap
+Nike,Sweater,Blue,S,Denim,196,Affordable
+Puma,Sweater,White,S,Nylon,46,Cheap
+New Balance,Dress,Green,XS,Cotton,109,Cheap
+New Balance,Shoes,Yellow,XL,Wool,79,Cheap
+Reebok,Jeans,Blue,M,Denim,144,Cheap
+Under Armour,Jeans,Black,XL,Cotton,13,Cheap
+Under Armour,T-shirt,Black,M,Denim,131,Cheap
+Reebok,Shoes,Blue,XS,Cotton,178,Affordable
+Adidas,Jacket,Red,XS,Nylon,198,Affordable
+Nike,Jeans,Blue,XXL,Denim,171,Affordable
+Puma,Sweater,Yellow,XXL,Denim,38,Cheap
+Puma,Sweater,Black,L,Cotton,78,Cheap
+New Balance,Jacket,Green,XS,Denim,36,Cheap
+New Balance,Jacket,White,S,Wool,119,Cheap
+Adidas,T-shirt,Red,XL,Nylon,189,Affordable
+Puma,T-shirt,Green,M,Cotton,191,Affordable
+Puma,Dress,Blue,XL,Polyester,171,Affordable
+Under Armour,Shoes,Black,XL,Silk,145,Cheap
+Nike,Sweater,Yellow,XL,Cotton,135,Cheap
+Under Armour,Dress,Blue,XL,Wool,104,Cheap
+Reebok,Sweater,Blue,XL,Wool,82,Cheap
+New Balance,Dress,Green,XXL,Polyester,94,Cheap
+Under Armour,T-shirt,Green,XS,Cotton,145,Cheap
+Adidas,Jeans,Black,XXL,Cotton,118,Cheap
+Nike,Shoes,Green,XL,Cotton,77,Cheap
+Adidas,Jacket,Red,XL,Wool,112,Cheap
+Nike,Sweater,Black,M,Nylon,94,Cheap
+Nike,Shoes,Yellow,XL,Nylon,81,Cheap
+Nike,T-shirt,Red,XL,Polyester,93,Cheap
+Puma,T-shirt,Blue,XXL,Wool,10,Cheap
+New Balance,T-shirt,White,XL,Silk,143,Cheap
+Under Armour,Dress,Green,S,Denim,101,Cheap
+Puma,Shoes,Yellow,XXL,Polyester,117,Cheap
+New Balance,Jacket,Black,S,Nylon,168,Affordable
+Puma,T-shirt,Green,S,Silk,17,Cheap
+Under Armour,Dress,Red,XL,Polyester,159,Affordable
+Adidas,T-shirt,Blue,XS,Polyester,146,Cheap
+New Balance,Dress,Blue,S,Wool,181,Affordable
+Nike,Shoes,Green,L,Cotton,56,Cheap
+Adidas,Jeans,Black,S,Nylon,10,Cheap
+Adidas,Dress,Black,M,Nylon,114,Cheap
+New Balance,Sweater,Green,XS,Cotton,189,Affordable
+Reebok,Jacket,White,XXL,Silk,48,Cheap
+New Balance,Dress,Green,M,Silk,99,Cheap
+Puma,Jacket,Green,M,Silk,84,Cheap
+Nike,Dress,White,S,Cotton,133,Cheap
+Under Armour,Jacket,Yellow,M,Wool,97,Cheap
+Adidas,Shoes,Green,M,Wool,106,Cheap
+Reebok,Jeans,Yellow,XS,Denim,93,Cheap
+Reebok,Sweater,Red,S,Polyester,36,Cheap
+Adidas,Sweater,Green,XS,Nylon,42,Cheap
+New Balance,Sweater,Green,XL,Cotton,125,Cheap
+New Balance,Dress,Black,S,Wool,107,Cheap
+New Balance,Sweater,Green,M,Nylon,182,Affordable
+Adidas,T-shirt,White,XXL,Denim,69,Cheap
+New Balance,T-shirt,Yellow,S,Silk,67,Cheap
+Reebok,Sweater,White,XXL,Cotton,188,Affordable
+Puma,Shoes,Yellow,S,Nylon,183,Affordable
+New Balance,Sweater,Green,XL,Wool,142,Cheap
+Reebok,Dress,Yellow,XS,Silk,195,Affordable
+Reebok,Sweater,Green,S,Denim,103,Cheap
+Reebok,Jacket,White,XXL,Polyester,101,Cheap
+Puma,Shoes,Red,S,Polyester,155,Affordable
+Puma,Jeans,Yellow,XXL,Polyester,173,Affordable
+New Balance,Dress,Yellow,L,Wool,158,Affordable
+Puma,Dress,Yellow,S,Cotton,183,Affordable
+Under Armour,T-shirt,Yellow,XS,Denim,195,Affordable
+Under Armour,Dress,Green,L,Denim,129,Cheap
+Under Armour,Dress,Green,XXL,Denim,174,Affordable
+Under Armour,Jeans,Red,M,Nylon,115,Cheap
+Nike,Shoes,Green,M,Wool,14,Cheap
+Nike,Jacket,White,S,Nylon,168,Affordable
+New Balance,Jeans,Yellow,XS,Wool,119,Cheap
+Nike,Shoes,Red,S,Silk,97,Cheap
+Adidas,Shoes,Blue,M,Wool,173,Affordable
+Nike,Shoes,White,S,Polyester,83,Cheap
+New Balance,Jacket,Black,S,Cotton,193,Affordable
+Adidas,T-shirt,Red,M,Nylon,36,Cheap
+Reebok,Shoes,Black,M,Silk,128,Cheap
+Nike,Jeans,Yellow,L,Polyester,32,Cheap
+Puma,Jeans,Blue,L,Denim,108,Cheap
+New Balance,Jeans,Black,XS,Silk,100,Cheap
+Under Armour,Sweater,White,XXL,Nylon,61,Cheap
+Adidas,Sweater,Red,XXL,Wool,56,Cheap
+New Balance,Shoes,Green,XS,Cotton,71,Cheap
+Reebok,Jeans,White,M,Polyester,198,Affordable
+Nike,Dress,Black,XS,Cotton,57,Cheap
+Under Armour,T-shirt,Green,XS,Nylon,114,Cheap
+Puma,Dress,Black,L,Denim,138,Cheap
+Reebok,T-shirt,Yellow,M,Silk,148,Cheap
+New Balance,Shoes,Green,L,Cotton,151,Affordable
+Puma,T-shirt,Blue,S,Silk,81,Cheap
+Nike,Sweater,White,M,Cotton,104,Cheap
+Adidas,T-shirt,Red,XL,Nylon,16,Cheap
+Reebok,Jeans,Blue,XS,Denim,183,Affordable
+Nike,Jeans,Black,XS,Silk,168,Affordable
+Nike,Shoes,Black,M,Cotton,25,Cheap
+Adidas,Shoes,Blue,XL,Cotton,179,Affordable
+Adidas,T-shirt,Black,XXL,Nylon,176,Affordable
+Nike,Sweater,Yellow,M,Silk,63,Cheap
+Adidas,Dress,Red,XS,Cotton,181,Affordable
+Reebok,Sweater,White,XXL,Denim,92,Cheap
+Adidas,Sweater,Yellow,XS,Polyester,145,Cheap
+Reebok,Dress,Green,M,Nylon,75,Cheap
+Nike,Jeans,Red,XXL,Cotton,179,Affordable
+Under Armour,Shoes,Red,S,Nylon,76,Cheap
+Nike,Jacket,Black,L,Wool,124,Cheap
+New Balance,Sweater,White,M,Cotton,102,Cheap
+Nike,Jeans,Green,S,Polyester,88,Cheap
+Nike,T-shirt,White,XL,Denim,110,Cheap
+Reebok,Sweater,Blue,XS,Wool,169,Affordable
+Under Armour,Sweater,White,XS,Nylon,188,Affordable
+Adidas,T-shirt,Green,M,Denim,184,Affordable
+Puma,Jacket,Blue,XL,Silk,103,Cheap
+Reebok,Jacket,White,M,Silk,124,Cheap
+Nike,Dress,White,L,Nylon,171,Affordable
+New Balance,Shoes,Green,M,Silk,22,Cheap
+Nike,T-shirt,Green,XS,Silk,90,Cheap
+Puma,Jeans,Blue,XS,Polyester,76,Cheap
+Adidas,Jeans,Yellow,XXL,Wool,135,Cheap
+Under Armour,Jacket,Black,S,Cotton,148,Cheap
+New Balance,Dress,White,L,Wool,122,Cheap
+Nike,Shoes,Black,XXL,Nylon,165,Affordable
+Puma,Dress,Black,XXL,Polyester,194,Affordable
+New Balance,Jeans,Blue,XXL,Denim,130,Cheap
+New Balance,Shoes,White,S,Nylon,75,Cheap
+Nike,Shoes,White,L,Wool,98,Cheap
+Puma,Dress,Black,XS,Polyester,44,Cheap
+Adidas,Shoes,White,XXL,Polyester,13,Cheap
+Puma,Jacket,White,XXL,Wool,198,Affordable
+Nike,Jacket,Red,XXL,Denim,175,Affordable
+Reebok,Dress,Green,M,Cotton,181,Affordable
+New Balance,Jacket,Blue,XS,Denim,98,Cheap
+Adidas,Shoes,Blue,S,Denim,80,Cheap
+Puma,Jacket,Red,S,Wool,158,Affordable
+Reebok,Dress,Green,M,Polyester,144,Cheap
+Under Armour,Jacket,Black,XXL,Polyester,38,Cheap
+Under Armour,T-shirt,Blue,XL,Cotton,125,Cheap
+Puma,Jacket,Blue,XS,Cotton,144,Cheap
+Adidas,Sweater,Blue,S,Nylon,76,Cheap
+Nike,Jeans,Blue,XL,Nylon,102,Cheap
+Under Armour,T-shirt,Blue,XL,Polyester,112,Cheap
+Reebok,Dress,Blue,XS,Nylon,111,Cheap
+Reebok,Jeans,Red,S,Cotton,133,Cheap
+Reebok,Sweater,Blue,XL,Denim,119,Cheap
+Under Armour,Jeans,Yellow,S,Nylon,83,Cheap
+Puma,Jacket,Green,XL,Nylon,110,Cheap
+New Balance,Jeans,Green,XS,Polyester,192,Affordable
+Under Armour,Dress,White,XS,Wool,87,Cheap
+Adidas,Jacket,Black,S,Wool,159,Affordable
+Adidas,Jacket,White,XS,Silk,169,Affordable
+Puma,Sweater,Blue,L,Silk,91,Cheap
+Reebok,Shoes,White,XS,Denim,45,Cheap
+Under Armour,Jeans,Blue,M,Polyester,146,Cheap
+Puma,Shoes,Red,XS,Polyester,35,Cheap
+New Balance,Sweater,Yellow,S,Denim,31,Cheap
+Nike,Jacket,Green,XXL,Wool,183,Affordable
+Adidas,Jacket,Green,XL,Polyester,154,Affordable
+Nike,Sweater,Black,L,Cotton,163,Affordable
+Nike,Jacket,Blue,S,Polyester,129,Cheap
+New Balance,Shoes,Red,S,Nylon,175,Affordable
+Under Armour,Shoes,Black,XL,Polyester,137,Cheap
+New Balance,Jeans,Black,XL,Wool,139,Cheap
+Puma,T-shirt,Black,M,Cotton,143,Cheap
+Nike,Shoes,Red,S,Silk,150,Affordable
+Nike,Sweater,Red,L,Cotton,100,Cheap
+Reebok,Dress,Blue,M,Cotton,84,Cheap
+Reebok,T-shirt,Red,M,Nylon,192,Affordable
+Nike,Dress,Black,L,Cotton,88,Cheap
+Under Armour,Jacket,Blue,XL,Polyester,72,Cheap
+Nike,T-shirt,Black,XL,Wool,82,Cheap
+Adidas,Jacket,Black,S,Cotton,55,Cheap
+Puma,Jacket,Green,M,Cotton,143,Cheap
+Under Armour,Shoes,Red,L,Polyester,57,Cheap
+New Balance,Sweater,White,L,Denim,197,Affordable
+Reebok,Dress,Green,L,Cotton,180,Affordable
+New Balance,Shoes,Green,M,Silk,148,Cheap
+Puma,Jeans,White,XS,Cotton,67,Cheap
+Adidas,Sweater,Black,XS,Cotton,99,Cheap
+Under Armour,Sweater,White,S,Cotton,141,Cheap
+Under Armour,Dress,Red,XXL,Silk,135,Cheap
+Under Armour,Sweater,Black,M,Silk,92,Cheap
+Reebok,Dress,Yellow,XXL,Silk,196,Affordable
+New Balance,Sweater,Black,M,Silk,142,Cheap
+Puma,T-shirt,Black,XS,Cotton,27,Cheap
+Adidas,Dress,Red,XL,Polyester,104,Cheap
+New Balance,Jeans,Black,XS,Wool,162,Affordable
+Nike,Shoes,White,XXL,Wool,141,Cheap
+Nike,Sweater,Black,M,Cotton,79,Cheap
+Nike,Shoes,Green,XXL,Nylon,178,Affordable
+Puma,T-shirt,White,L,Wool,174,Affordable
+Under Armour,Shoes,White,M,Silk,68,Cheap
+Adidas,Jeans,Black,S,Nylon,187,Affordable
+New Balance,Sweater,Red,XS,Polyester,193,Affordable
+Reebok,Sweater,Green,S,Denim,162,Affordable
+New Balance,Shoes,White,XS,Nylon,171,Affordable
+Under Armour,Shoes,Blue,XS,Polyester,156,Affordable
+Reebok,Shoes,White,S,Nylon,107,Cheap
+Under Armour,Jacket,Blue,S,Wool,145,Cheap
+Nike,Sweater,Black,L,Silk,191,Affordable
+Under Armour,Jeans,Green,XXL,Polyester,56,Cheap
+Nike,Jeans,Yellow,S,Polyester,137,Cheap
+Nike,T-shirt,White,XL,Nylon,171,Affordable
+Adidas,Jacket,Blue,M,Silk,91,Cheap
+Adidas,T-shirt,White,XXL,Cotton,167,Affordable
+New Balance,T-shirt,Green,L,Polyester,22,Cheap
+Reebok,Sweater,White,XS,Silk,128,Cheap
+Reebok,T-shirt,Blue,XXL,Cotton,56,Cheap
+Puma,Dress,White,XL,Polyester,128,Cheap
+Puma,Jacket,Green,S,Silk,42,Cheap
+Reebok,Sweater,Black,S,Denim,44,Cheap
+Adidas,Dress,Green,XL,Polyester,125,Cheap
+Nike,Jeans,Green,M,Wool,97,Cheap
+Puma,Jacket,Red,XL,Silk,134,Cheap
+Adidas,Jeans,Black,XS,Nylon,163,Affordable
+Nike,Shoes,White,XXL,Nylon,184,Affordable
+New Balance,Jeans,Yellow,XL,Denim,117,Cheap
+Puma,Sweater,White,XXL,Cotton,62,Cheap
+Adidas,Dress,White,L,Wool,120,Cheap
+Reebok,Jacket,Blue,XL,Denim,74,Cheap
+Adidas,Sweater,Green,XL,Cotton,86,Cheap
+New Balance,T-shirt,Green,XS,Nylon,128,Cheap
+Puma,Jacket,Black,XS,Silk,83,Cheap
+Nike,Sweater,Red,M,Denim,156,Affordable
+Puma,Jacket,White,XS,Wool,14,Cheap
+Under Armour,Jacket,Blue,XS,Polyester,17,Cheap
+New Balance,Sweater,Yellow,XS,Denim,141,Cheap
+Reebok,Jeans,Green,XL,Denim,58,Cheap
+Under Armour,Jeans,Red,XL,Polyester,86,Cheap
+Puma,Sweater,Blue,XS,Silk,47,Cheap
+Puma,Jacket,Blue,S,Nylon,126,Cheap
+Adidas,Jeans,Yellow,XS,Denim,58,Cheap
+Adidas,Dress,Black,XS,Denim,119,Cheap
+Under Armour,T-shirt,White,XXL,Cotton,189,Affordable
+New Balance,T-shirt,Blue,M,Nylon,59,Cheap
+Adidas,Dress,Blue,XS,Silk,81,Cheap
+Adidas,Dress,White,XS,Nylon,100,Cheap
+Under Armour,Dress,Yellow,XXL,Cotton,187,Affordable
+Adidas,Jacket,White,M,Cotton,39,Cheap
+Under Armour,Jeans,Green,XS,Wool,13,Cheap
+Nike,Dress,Black,XS,Denim,84,Cheap
+Under Armour,Sweater,Yellow,L,Wool,94,Cheap
+Adidas,Shoes,Green,XXL,Wool,75,Cheap
+New Balance,T-shirt,Yellow,M,Denim,129,Cheap
+Reebok,T-shirt,White,M,Nylon,30,Cheap
+Reebok,Dress,White,L,Denim,52,Cheap
+Under Armour,Jeans,Yellow,M,Polyester,38,Cheap
+New Balance,Dress,White,XXL,Nylon,164,Affordable
+Reebok,Sweater,Yellow,S,Denim,97,Cheap
+New Balance,Dress,Red,XL,Cotton,190,Affordable
+Reebok,Jacket,White,XL,Wool,58,Cheap
+Adidas,Dress,Yellow,XXL,Silk,112,Cheap
+Nike,Jacket,White,M,Polyester,19,Cheap
+Nike,Jeans,Green,XL,Nylon,12,Cheap
+Adidas,Shoes,Green,XS,Polyester,126,Cheap
+New Balance,Jeans,Blue,XS,Silk,118,Cheap
+Nike,Sweater,White,S,Denim,99,Cheap
+Under Armour,Jeans,Red,L,Wool,134,Cheap
+Nike,Jacket,Green,XXL,Wool,127,Cheap
+Reebok,Jeans,Red,XL,Cotton,110,Cheap
+Adidas,Jacket,Blue,S,Denim,100,Cheap
+Puma,Sweater,Red,XL,Denim,78,Cheap
+Reebok,Jacket,Green,XS,Nylon,115,Cheap
+Reebok,Dress,Black,S,Cotton,20,Cheap
+Under Armour,Jeans,Red,XXL,Polyester,22,Cheap
+Puma,T-shirt,White,S,Silk,114,Cheap
+Under Armour,Dress,Red,L,Denim,175,Affordable
+Adidas,Shoes,Black,XS,Silk,177,Affordable
+Puma,Jacket,Yellow,S,Denim,170,Affordable
+New Balance,Shoes,Black,XS,Cotton,132,Cheap
+Adidas,Shoes,Yellow,XS,Cotton,43,Cheap
+Nike,Shoes,Black,M,Polyester,164,Affordable
+Reebok,Dress,Red,M,Wool,109,Cheap
+Nike,Dress,Yellow,L,Silk,60,Cheap
+Adidas,Dress,Yellow,XS,Denim,98,Cheap
+Under Armour,Dress,Black,M,Denim,30,Cheap
+New Balance,Jacket,Red,XXL,Cotton,166,Affordable
+Reebok,Jeans,Red,XXL,Denim,82,Cheap
+Reebok,Jeans,Red,XL,Silk,28,Cheap
+Puma,Dress,Yellow,XS,Wool,163,Affordable
+New Balance,T-shirt,Yellow,S,Silk,162,Affordable
+Nike,Jeans,White,XS,Wool,49,Cheap
+New Balance,Jacket,White,S,Wool,133,Cheap
+Adidas,Jacket,Yellow,L,Nylon,38,Cheap
+Adidas,Jeans,Red,M,Polyester,162,Affordable
+Adidas,Jacket,Blue,XL,Silk,156,Affordable
+Adidas,Jacket,Blue,M,Wool,182,Affordable
+Under Armour,Sweater,Yellow,XXL,Silk,55,Cheap
+New Balance,Jacket,Yellow,S,Cotton,64,Cheap
+Adidas,Jeans,Red,XXL,Polyester,10,Cheap
+Under Armour,Jeans,Red,L,Polyester,148,Cheap
+New Balance,Shoes,Blue,S,Cotton,144,Cheap
+Under Armour,Shoes,Blue,XXL,Cotton,109,Cheap
+Puma,T-shirt,Black,L,Silk,195,Affordable
+Puma,Dress,Red,XXL,Nylon,157,Affordable
+Nike,Jeans,Green,L,Silk,172,Affordable
+Adidas,Jacket,Black,XXL,Silk,60,Cheap
+Under Armour,Shoes,Red,XL,Wool,112,Cheap
+Puma,Shoes,Green,XL,Silk,30,Cheap
+Adidas,T-shirt,Green,M,Polyester,181,Affordable
+Puma,Sweater,Yellow,XL,Denim,128,Cheap
+Puma,Shoes,Yellow,S,Nylon,138,Cheap
+Nike,T-shirt,Green,S,Cotton,119,Cheap
+Under Armour,Jacket,Green,XXL,Polyester,115,Cheap
+Under Armour,Jeans,White,XXL,Cotton,150,Affordable
+New Balance,T-shirt,Black,L,Wool,25,Cheap
+New Balance,Jacket,Green,M,Silk,128,Cheap
+Puma,Sweater,Yellow,XXL,Wool,43,Cheap
+Adidas,Shoes,Yellow,M,Cotton,161,Affordable
+New Balance,T-shirt,Yellow,M,Silk,150,Affordable
+Under Armour,Jacket,Blue,L,Denim,143,Cheap
+New Balance,Dress,Black,XL,Denim,48,Cheap
+Nike,Jeans,Black,XS,Silk,11,Cheap
+Under Armour,Jacket,Black,S,Wool,20,Cheap
+Nike,Dress,White,L,Cotton,16,Cheap
+Adidas,Jeans,Blue,S,Nylon,135,Cheap
+New Balance,Shoes,Black,XL,Wool,16,Cheap
+Puma,Jeans,Blue,XL,Polyester,112,Cheap
+Adidas,Jeans,Blue,L,Polyester,176,Affordable
+New Balance,Dress,Green,L,Polyester,85,Cheap
+New Balance,T-shirt,Blue,XS,Cotton,124,Cheap
+Adidas,Shoes,Red,M,Polyester,95,Cheap
+Nike,Dress,Red,XS,Polyester,136,Cheap
+Adidas,Dress,White,L,Silk,124,Cheap
+Puma,Jacket,White,XS,Silk,188,Affordable
+Under Armour,Jacket,Black,XXL,Silk,61,Cheap
+Nike,Sweater,Red,XXL,Cotton,12,Cheap
+New Balance,Dress,White,XXL,Polyester,86,Cheap
+Nike,Dress,White,S,Wool,167,Affordable
+Adidas,Sweater,Green,XL,Polyester,19,Cheap
+Adidas,Dress,Red,XL,Silk,125,Cheap
+New Balance,Dress,Blue,XS,Denim,143,Cheap
+Adidas,Sweater,White,XXL,Polyester,126,Cheap
+Reebok,Sweater,White,M,Silk,191,Affordable
+Puma,Sweater,Red,L,Polyester,53,Cheap
+Adidas,Jeans,Yellow,XL,Denim,89,Cheap
+Reebok,Jacket,White,XS,Cotton,72,Cheap
+Nike,Sweater,Green,L,Nylon,86,Cheap
+Puma,Jeans,Black,XL,Nylon,57,Cheap
+Reebok,Shoes,Yellow,XXL,Polyester,86,Cheap
+Nike,Jacket,Green,XS,Wool,159,Affordable
+Under Armour,Sweater,Green,L,Polyester,130,Cheap
+Under Armour,Shoes,Green,M,Denim,28,Cheap
+Puma,Dress,Red,XS,Polyester,99,Cheap
+Reebok,Dress,Red,XS,Nylon,23,Cheap
+Reebok,Jacket,Yellow,XS,Polyester,102,Cheap
+Nike,T-shirt,Yellow,XL,Polyester,115,Cheap
+Under Armour,Jacket,Blue,M,Silk,16,Cheap
+Under Armour,Jeans,Blue,XXL,Polyester,110,Cheap
+Adidas,Dress,Blue,M,Silk,58,Cheap
+New Balance,Shoes,Green,XXL,Cotton,50,Cheap
+New Balance,Shoes,Black,XS,Wool,164,Affordable
+New Balance,Dress,Blue,XXL,Polyester,168,Affordable
+Reebok,Sweater,Yellow,XS,Silk,143,Cheap
+New Balance,Jeans,Black,M,Denim,153,Affordable
+Puma,T-shirt,Blue,L,Denim,47,Cheap
+Under Armour,Jeans,Red,XS,Silk,69,Cheap
+Puma,Jeans,White,M,Denim,123,Cheap
+New Balance,Jeans,Blue,XL,Denim,105,Cheap
+Puma,Jeans,Blue,M,Polyester,106,Cheap
+Adidas,T-shirt,Green,L,Nylon,42,Cheap
+Under Armour,Jeans,Green,XS,Nylon,72,Cheap
+Puma,T-shirt,Blue,XXL,Polyester,148,Cheap
+Under Armour,Jacket,Green,M,Polyester,150,Affordable
+Adidas,Shoes,Red,S,Nylon,103,Cheap
+New Balance,Jeans,Black,XS,Polyester,74,Cheap
+Nike,Sweater,Black,XS,Polyester,167,Affordable
+Nike,T-shirt,Green,S,Nylon,100,Cheap
+Nike,Shoes,Blue,XS,Silk,160,Affordable
+Puma,Shoes,Red,XL,Cotton,157,Affordable
+Puma,T-shirt,Red,XL,Polyester,143,Cheap
+Puma,Shoes,Yellow,L,Nylon,46,Cheap
+Under Armour,Jeans,Green,XXL,Denim,93,Cheap
+Reebok,Sweater,Yellow,L,Polyester,137,Cheap
+Under Armour,Shoes,Green,M,Polyester,15,Cheap
+Nike,Shoes,Yellow,M,Silk,102,Cheap
+Reebok,Sweater,White,XL,Cotton,164,Affordable
+Adidas,Jeans,Blue,XS,Polyester,93,Cheap
+Reebok,Sweater,Green,XXL,Cotton,150,Affordable
+Adidas,T-shirt,Black,XXL,Nylon,145,Cheap
+Puma,Shoes,Green,S,Nylon,190,Affordable
+Nike,Jeans,Black,XXL,Denim,90,Cheap
+Puma,Jeans,Yellow,XL,Wool,167,Affordable
+Under Armour,Jeans,Yellow,L,Silk,10,Cheap
+New Balance,Jacket,Blue,L,Nylon,84,Cheap
+Puma,Jeans,Black,L,Denim,141,Cheap
+Puma,Dress,Blue,XXL,Polyester,71,Cheap
+Reebok,Dress,Red,XXL,Polyester,77,Cheap
+Adidas,T-shirt,Black,S,Nylon,154,Affordable
+Nike,Jacket,Green,L,Wool,122,Cheap
+Puma,Jacket,Black,L,Denim,94,Cheap
+Puma,Sweater,Yellow,M,Silk,126,Cheap
+Adidas,Jeans,White,XS,Denim,66,Cheap
+Under Armour,Dress,White,XXL,Wool,72,Cheap
+Under Armour,Jacket,Blue,XS,Cotton,194,Affordable
+Reebok,Dress,Red,S,Silk,58,Cheap
+Adidas,Dress,Blue,L,Silk,155,Affordable
+Puma,Jeans,Red,M,Polyester,127,Cheap
+Under Armour,Dress,White,XS,Silk,195,Affordable
+Under Armour,T-shirt,Yellow,S,Silk,19,Cheap
+Nike,T-shirt,White,M,Polyester,89,Cheap
+Nike,Jacket,White,L,Silk,171,Affordable
+New Balance,Jacket,Blue,S,Wool,142,Cheap
+Reebok,Sweater,Green,XXL,Silk,154,Affordable
+Under Armour,Dress,Green,M,Nylon,81,Cheap
+Under Armour,Jacket,Blue,XS,Silk,72,Cheap
+Adidas,Jeans,White,XL,Silk,33,Cheap
+Nike,Jacket,White,XS,Cotton,101,Cheap
+Nike,T-shirt,Blue,XL,Cotton,120,Cheap
+Under Armour,Dress,Red,S,Denim,17,Cheap
+Reebok,T-shirt,Blue,M,Wool,32,Cheap
+Under Armour,Jacket,White,M,Cotton,108,Cheap
+Puma,Jacket,White,M,Denim,168,Affordable
+Nike,T-shirt,Red,L,Wool,90,Cheap
+Nike,Shoes,Blue,XS,Denim,165,Affordable
+Adidas,Sweater,White,XL,Cotton,57,Cheap
+Reebok,Sweater,Blue,L,Cotton,124,Cheap
+Adidas,Jacket,Black,S,Polyester,21,Cheap
+Nike,Sweater,Red,S,Wool,88,Cheap
+New Balance,T-shirt,Yellow,XXL,Denim,40,Cheap
+Reebok,Dress,Green,XXL,Silk,100,Cheap
+Under Armour,Jacket,Red,L,Cotton,44,Cheap
+Under Armour,Jeans,Blue,XXL,Wool,64,Cheap
+New Balance,Shoes,White,XL,Silk,91,Cheap
+Reebok,Sweater,Green,S,Cotton,173,Affordable
+Puma,Sweater,Blue,XXL,Nylon,81,Cheap
+Under Armour,Jeans,Yellow,XXL,Silk,119,Cheap
+Adidas,Shoes,Red,XXL,Cotton,69,Cheap
+Under Armour,Jeans,White,XS,Cotton,122,Cheap
+Under Armour,Shoes,White,S,Denim,175,Affordable
+Puma,T-shirt,Red,XL,Silk,78,Cheap
+Under Armour,Shoes,Blue,XXL,Wool,191,Affordable
+Adidas,T-shirt,Blue,XS,Polyester,23,Cheap
+Adidas,Sweater,Red,L,Denim,111,Cheap
+New Balance,Shoes,Blue,XL,Cotton,29,Cheap
+Adidas,Dress,Red,XS,Wool,117,Cheap
+New Balance,T-shirt,Black,XXL,Nylon,18,Cheap
+Nike,Shoes,Yellow,XS,Denim,106,Cheap
+Under Armour,T-shirt,White,XS,Silk,134,Cheap
+Under Armour,Jacket,Red,XL,Wool,110,Cheap
+Reebok,Shoes,White,XXL,Wool,139,Cheap
+Puma,Jacket,Yellow,M,Wool,167,Affordable
+Nike,T-shirt,Yellow,S,Polyester,143,Cheap
+New Balance,Dress,Black,M,Polyester,178,Affordable
+Under Armour,Sweater,Red,XXL,Denim,160,Affordable
+Adidas,Jeans,Blue,S,Denim,40,Cheap
+Nike,Shoes,Blue,XL,Nylon,29,Cheap
+Nike,T-shirt,Red,S,Cotton,14,Cheap
+New Balance,Dress,Red,XXL,Polyester,158,Affordable
+Adidas,Dress,Yellow,XL,Denim,116,Cheap
+Reebok,Dress,Yellow,XS,Polyester,84,Cheap
+New Balance,T-shirt,White,L,Polyester,133,Cheap
+Under Armour,T-shirt,Green,M,Polyester,70,Cheap
+Puma,Shoes,Yellow,M,Denim,103,Cheap
+Reebok,Shoes,Red,XL,Denim,179,Affordable
+Puma,Dress,Green,S,Nylon,50,Cheap
+New Balance,Dress,Yellow,S,Wool,198,Affordable
+Puma,Shoes,Blue,L,Silk,189,Affordable
+Under Armour,T-shirt,Yellow,XS,Silk,50,Cheap
+Nike,Sweater,Yellow,S,Wool,69,Cheap
+Adidas,T-shirt,Yellow,S,Cotton,39,Cheap
+Puma,Jacket,Yellow,XXL,Nylon,104,Cheap
+Reebok,Dress,Black,XS,Nylon,175,Affordable
+Under Armour,Sweater,Red,L,Polyester,136,Cheap
+Under Armour,Jeans,Green,S,Wool,26,Cheap
+New Balance,T-shirt,Red,XL,Polyester,109,Cheap
+Reebok,Dress,Yellow,XS,Silk,177,Affordable
+Puma,T-shirt,Blue,S,Silk,167,Affordable
+Puma,Jeans,Green,L,Wool,75,Cheap
+Puma,T-shirt,White,M,Silk,33,Cheap
+Reebok,Sweater,Red,XL,Denim,138,Cheap
+Puma,Jeans,White,XXL,Nylon,97,Cheap
+Reebok,Jacket,Blue,XL,Polyester,47,Cheap
+Under Armour,Jacket,Yellow,XL,Nylon,121,Cheap
+Reebok,Dress,Blue,XL,Wool,164,Affordable
+Adidas,Jacket,Red,M,Wool,99,Cheap
+Nike,T-shirt,Green,M,Silk,144,Cheap
+Nike,Sweater,Red,M,Cotton,111,Cheap
+Adidas,Jacket,Blue,M,Denim,51,Cheap
+Reebok,Dress,Blue,L,Cotton,155,Affordable
+New Balance,T-shirt,Red,S,Wool,122,Cheap
+Nike,Dress,White,M,Nylon,53,Cheap
+Adidas,Dress,White,M,Denim,120,Cheap
+New Balance,Sweater,Red,L,Polyester,128,Cheap
+Puma,Shoes,Red,XS,Cotton,157,Affordable
+Adidas,Sweater,Blue,L,Cotton,32,Cheap
+Nike,Dress,Black,XS,Nylon,119,Cheap
+Reebok,Dress,Red,XL,Wool,149,Cheap
+Reebok,Jacket,Yellow,L,Silk,21,Cheap
+Reebok,Jacket,Blue,XL,Denim,171,Affordable
+Nike,Jeans,Black,XS,Nylon,145,Cheap
+Puma,Shoes,Green,L,Wool,129,Cheap
+Reebok,Sweater,Black,XS,Denim,36,Cheap
+New Balance,Shoes,Green,XS,Denim,58,Cheap
+Under Armour,Jacket,Black,XL,Polyester,192,Affordable
+Puma,Dress,Blue,XS,Wool,106,Cheap
+New Balance,Jacket,Yellow,S,Silk,110,Cheap
+Adidas,Jeans,Blue,M,Wool,92,Cheap
+Under Armour,Jacket,Black,L,Wool,97,Cheap
+Puma,Dress,Black,XL,Nylon,159,Affordable
+Nike,Jacket,Green,M,Silk,12,Cheap
+Under Armour,Jacket,Red,XL,Silk,18,Cheap
+Puma,Sweater,Blue,S,Cotton,20,Cheap
+Puma,Sweater,Green,XXL,Cotton,15,Cheap
+New Balance,Jeans,Black,M,Polyester,48,Cheap
+Puma,Jeans,Black,L,Polyester,176,Affordable
+Puma,Jacket,Red,XXL,Silk,110,Cheap
+Reebok,Sweater,Blue,XS,Denim,127,Cheap
+Under Armour,Sweater,Black,XXL,Denim,69,Cheap
+New Balance,Jacket,Yellow,XS,Wool,174,Affordable
